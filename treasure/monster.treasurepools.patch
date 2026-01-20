@@ -41,7 +41,7 @@
       "pool" : [
 	    {"weight" : 0.799, "pool" : "basicMonsterTreasure"},
 		{"weight" : 0.2, "item" : "sandcrawlertooth"},
-        {"weight" : 0.001, "item" : "largesandcrawleraf"}
+        {"weight" : 0.01, "item" : "largesandcrawleraf"}
       ]
     }]
    ]		
@@ -54,7 +54,7 @@
       "pool" : [
 	    {"weight" : 0.599, "pool" : "basicMonsterTreasure"},
 		{"weight" : 0.4, "item" : "sandspittersack"},
-        {"weight" : 0.001, "item" : "giantsandspitteraf"}
+        {"weight" : 0.01, "item" : "giantsandspitteraf"}
       ]
     }]
    ]		
@@ -79,7 +79,7 @@
       "pool" : [
 	    {"weight" : 0.799, "pool" : "basicMonsterTreasure"},
 		{"weight" : 0.2, "item" : "valahrgland"},
-        {"weight" : 0.001, "item" : "kadavanvalahraf"}
+        {"weight" : 0.01, "item" : "kadavanvalahraf"}
       ]
     }]
    ]		
@@ -92,7 +92,7 @@
       "pool" : [
         {"weight" : 0.849, "pool" : "money"},
 		{"weight" : 0.150, "item" : "stingwingqueen"},
-        {"weight" : 0.001, "item" : "kadavanswarmaf"}
+        {"weight" : 0.01, "item" : "kadavanswarmaf"}
       ]
     }]
    ]	
@@ -108,7 +108,7 @@
 		{"weight" : 0.075, "item" : "avikancircuitry"},
 		{"weight" : 0.1, "item" : "avikanmetal"},
 		{"weight" : 0.05, "item" : "avikancapacitor"},
-        {"weight" : 0.001, "item" : "avikandroneaf"}
+        {"weight" : 0.01, "item" : "avikandroneaf"}
       ]
     }]
    ]
@@ -126,7 +126,7 @@
 		{"weight" : 0.025, "item" : "avikancircuitry"},
 		{"weight" : 0.05, "item" : "avikanmetal"},
 		{"weight" : 0.05, "item" : "avikancapacitor"},
-        {"weight" : 0.001, "item" : "avikanviolateddroneaf"}
+        {"weight" : 0.01, "item" : "avikanviolateddroneaf"}
       ]
     }]
    ]
@@ -154,7 +154,7 @@
 		{"weight" : 0.075, "item" : "avikancircuitry"},
 		{"weight" : 0.1, "item" : "avikanmetal"},
 		{"weight" : 0.05, "item" : "avikancapacitor"},
-        {"weight" : 0.003, "item" : "avikanlargedroneaf"}
+        {"weight" : 0.1, "item" : "avikanlargedroneaf"}
       ]
     }]
    ]
@@ -184,7 +184,7 @@
 		{"weight" : 0.025, "item" : "avikancircuitry"},
 		{"weight" : 0.05, "item" : "avikanmetal"},
 		{"weight" : 0.05, "item" : "avikancapacitor"},
-        {"weight" : 0.001, "item" : "avikanlargeviolateddroneaf"}
+        {"weight" : 0.1, "item" : "avikanlargeviolateddroneaf"}
       ]
     }]
    ]	
@@ -214,7 +214,7 @@
         {"weight" : 0.699, "pool" : "money"},
 		{"weight" : 0.15, "item" : "trinkmetal"},
 		{"weight" : 0.15, "item" : "trinklaserdiode"},
-        {"weight" : 0.001, "item" : "trinkdroneaf"}
+        {"weight" : 0.01, "item" : "trinkdroneaf"}
       ]
     }]
    ]	
@@ -245,7 +245,7 @@
 		{"weight" : 0.20, "item" : "theleantissue"},
 		{"weight" : 0.10, "item" : "theleanmetal"},
 		{"weight" : 0.02, "item" : "ghavorkanpowercell"},
-        {"weight" : 0.001, "item" : "ghavorkanaf"}
+        {"weight" : 0.1, "item" : "ghavorkanaf"}
       ]
     }]
    ]
@@ -283,7 +283,7 @@
       "pool" : [
         {"weight" : 0.697, "pool" : "money"},
 		{"weight" : 0.3, "pool" : "akkimariScrapMetal"},
-        {"weight" : 0.003, "item" : "akkimarijusticaraf"}
+        {"weight" : 0.1, "item" : "akkimarijusticaraf"}
       ]
     }]
    ]
@@ -296,7 +296,7 @@
       "pool" : [
         {"weight" : 0.697, "pool" : "money"},
 		{"weight" : 0.3, "pool" : "akkimariScrapMetal"},
-        {"weight" : 0.003, "item" : "akkimariarbiteraf"}
+        {"weight" : 0.01, "item" : "akkimariarbiteraf"}
       ]
     }]
    ]
@@ -309,7 +309,7 @@
       "pool" : [
         {"weight" : 0.697, "pool" : "money"},
 		{"weight" : 0.3, "pool" : "akkimariScrapMetal"},
-        {"weight" : 0.003, "item" : "akkimaristrikeraf"}
+        {"weight" : 0.1, "item" : "akkimaristrikeraf"}
       ]
     }]
    ]
@@ -339,7 +339,7 @@
         {"weight" : 0.699, "pool" : "money"},
 		{"weight" : 0.10, "item" : "monsterbone"},
 		{"weight" : 0.20, "item" : "farythscale"},
-        {"weight" : 0.001, "item" : "farythaf"}
+        {"weight" : 0.01, "item" : "farythaf"}
       ]
     }]
    ]
@@ -380,7 +380,7 @@
 		{"weight" : 0.15, "item" : "centensianmetal"},
 		{"weight" : 0.1, "item" : "centensiantech"},
 		{"weight" : 0.05, "item" : "centensianwarpcore"},
-        {"weight" : 0.003, "item" : "centensguardianaf"}
+        {"weight" : 0.3, "item" : "centensguardianaf"}
       ]
     }]
    ]
@@ -395,7 +395,7 @@
 		{"weight" : 0.0875, "item" : "centensianmetal"},
 		{"weight" : 0.05, "item" : "centensiantech"},
 		{"weight" : 0.0125, "item" : "centensianwarpcore"},
-        {"weight" : 0.003, "item" : "centenskeeperaf"}
+        {"weight" : 0.03, "item" : "centenskeeperaf"}
       ]
     }]
    ]
