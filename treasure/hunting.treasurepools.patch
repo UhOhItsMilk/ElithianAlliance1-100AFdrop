@@ -7,7 +7,7 @@
       "pool" : [
 		{"weight" : 0.599, "item" : "sandcrawlermeat"},
 		{"weight" : 0.399, "item" : "sandcrawlertooth"},
-        {"weight" : 0.002, "item" : "largesandcrawleraf"}
+        {"weight" : 0.02, "item" : "largesandcrawleraf"}
       ]
     }]
    ]		
@@ -20,7 +20,7 @@
       "pool" : [
 		{"weight" : 0.499, "item" : "rawribmeat"},
 		{"weight" : 0.499, "item" : "sandspittersack"},
-        {"weight" : 0.002, "item" : "giantsandspitteraf"}
+        {"weight" : 0.02, "item" : "giantsandspitteraf"}
       ]
     }]
    ]		
@@ -45,7 +45,7 @@
       "pool" : [
 		{"weight" : 0.599, "item" : "alienmeat"},
 		{"weight" : 0.399, "item" : "valahrgland"},
-        {"weight" : 0.002, "item" : "kadavanvalahraf"}
+        {"weight" : 0.02, "item" : "kadavanvalahraf"}
       ]
     }]
    ]		
@@ -58,7 +58,7 @@
       "pool" : [
         {"weight" : 0.799, "pool" : "money"},
 		{"weight" : 0.199, "item" : "stingwingqueen"},
-        {"weight" : 0.002, "item" : "kadavanswarmaf"}
+        {"weight" : 0.02, "item" : "kadavanswarmaf"}
       ]
     }]
    ]	
@@ -71,7 +71,7 @@
       "pool" : [
         {"weight" : 0.499, "item" : "staticcell"},
         {"weight" : 0.499, "item" : "stickofram"},
-        {"weight" : 0.002, "item" : "avikandroneaf"}
+        {"weight" : 0.02, "item" : "avikandroneaf"}
       ]
     }]
    ]
@@ -84,7 +84,7 @@
       "pool" : [
         {"weight" : 0.499, "item" : "staticcell"},
         {"weight" : 0.499, "item" : "stickofram"},
-        {"weight" : 0.002, "item" : "avikanviolateddroneaf"}
+        {"weight" : 0.02, "item" : "avikanviolateddroneaf"}
       ]
     }]
    ]
@@ -109,7 +109,7 @@
       "pool" : [
         {"weight" : 0.498, "item" : "staticcell"},
         {"weight" : 0.497, "item" : "stickofram"},
-        {"weight" : 0.005, "item" : "avikanlargedroneaf"}
+        {"weight" : 0.2, "item" : "avikanlargedroneaf"}
       ]
     }]
    ]
@@ -134,7 +134,7 @@
       "pool" : [
         {"weight" : 0.498, "item" : "staticcell"},
         {"weight" : 0.497, "item" : "stickofram"},
-        {"weight" : 0.005, "item" : "avikanlargeviolateddroneaf"}
+        {"weight" : 0.2, "item" : "avikanlargeviolateddroneaf"}
       ]
     }]
    ]	
@@ -147,7 +147,7 @@
       "pool" : [
         {"weight" : 0.499, "item" : "staticcell"},
         {"weight" : 0.499, "item" : "stickofram"},
-        {"weight" : 0.002, "item" : "trinkdroneaf"}
+        {"weight" : 0.02, "item" : "trinkdroneaf"}
       ]
     }]
    ]
@@ -161,7 +161,7 @@
         {"weight" : 0.499, "item" : "theleantissue"},
         {"weight" : 0.399, "item" : "theleanmetal"},
         {"weight" : 0.199, "item" : "ghavorkanpowercell"},
-        {"weight" : 0.002, "item" : "ghavorkanaf"}
+        {"weight" : 0.2, "item" : "ghavorkanaf"}
       ]
     }]
    ]
@@ -198,7 +198,7 @@
       "pool" : [
         {"weight" : 0.499, "item" : "staticcell"},
         {"weight" : 0.499, "item" : "stickofram"},
-        {"weight" : 0.002, "item" : "akkimarijusticaraf"}
+        {"weight" : 0.2, "item" : "akkimarijusticaraf"}
       ]
     }]
    ]
@@ -211,7 +211,7 @@
       "pool" : [
         {"weight" : 0.499, "item" : "staticcell"},
         {"weight" : 0.499, "item" : "stickofram"},
-        {"weight" : 0.002, "item" : "akkimariarbiteraf"}
+        {"weight" : 0.02, "item" : "akkimariarbiteraf"}
       ]
     }]
    ]
@@ -224,7 +224,7 @@
       "pool" : [
         {"weight" : 0.499, "item" : "staticcell"},
         {"weight" : 0.499, "item" : "stickofram"},
-        {"weight" : 0.002, "item" : "akkimaristrikeraf"}
+        {"weight" : 0.2, "item" : "akkimaristrikeraf"}
       ]
     }]
    ]
@@ -237,7 +237,7 @@
       "pool" : [
 		{"weight" : 0.599, "item" : "alienmeat"},
 		{"weight" : 0.399, "item" : "farythscale"},
-        {"weight" : 0.002, "item" : "farythaf"}
+        {"weight" : 0.02, "item" : "farythaf"}
       ]
     }]
    ]
@@ -262,7 +262,7 @@
       "pool" : [
         {"weight" : 0.498, "item" : "centensiantech"},
         {"weight" : 0.497, "item" : "centensianwarpcore"},
-        {"weight" : 0.005, "item" : "centensguardianaf"}
+        {"weight" : 0.5, "item" : "centensguardianaf"}
       ]
     }]
    ]
@@ -275,7 +275,7 @@
       "pool" : [
         {"weight" : 0.498, "item" : "centensiantech"},
         {"weight" : 0.497, "item" : "centensianwarpcore"},
-        {"weight" : 0.005, "item" : "centenskeeperaf"}
+        {"weight" : 0.06, "item" : "centenskeeperaf"}
       ]
     }]
    ]
